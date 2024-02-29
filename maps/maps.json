@@ -1,0 +1,8 @@
+[
+  {
+    "name": "wol",
+    "location_size": 35,
+    "location_border_thickness": 5,
+    "img": "images/maps/sc2wolmap.png"
+  }
+]
