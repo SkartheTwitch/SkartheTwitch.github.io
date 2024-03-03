@@ -9,7 +9,7 @@
       "flags": [ "map", "pins" ],
       "required_app_version": "2.1.0.0",
       "uid": "sc2_ap_skarthe",
-      "link": "https://emotracker.net/service/packages/alttpr_emotracker_emosaru.zip"
+      "link": "https://skarthetwitch.github.io/repositories/sc2_ap_skarthe.zip"
     }
   ]
 }
