@@ -1,0 +1,15 @@
+{
+  "name": "Skarthe's EmoTracker Packages",
+  "packages": [
+    {
+      "name": "StarCraft II Archipelago",
+      "author": "Skarthe",
+      "game_name": "StarCraft II",
+      "version": "1.0.2",
+      "flags": [ "map", "pins" ],
+      "required_app_version": "2.1.0.0",
+      "uid": "sc2_ap_skarthe",
+      "link": "https://emotracker.net/service/packages/alttpr_emotracker_emosaru.zip"
+    }
+  ]
+}
